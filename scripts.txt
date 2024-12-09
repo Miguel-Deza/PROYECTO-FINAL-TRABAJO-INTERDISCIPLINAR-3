@@ -1,0 +1,5 @@
+CAMARA WEB
+python .\count_person_webcam.py --modeldir=custom_model_lite
+
+VIDEO 
+python count_person_video.py --modeldir=custom_model_lite --video=c.mp4
