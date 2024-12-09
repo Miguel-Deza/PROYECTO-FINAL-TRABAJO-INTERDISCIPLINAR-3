@@ -103,8 +103,6 @@ PROYECTO_FINAL_CONTROL_AFORO
 │     ├─ trackableobject.cpython-312.pyc
 │     ├─ trackableobject.cpython-37.pyc
 │     └─ trackableobject.cpython-39.pyc
-├─ PDF
-│  └─ PROYECTO_FINAL_IEEE.pdf
 ├─ README.md
 ├─ scripts.txt
 ├─ TFLite_detection_image.py
