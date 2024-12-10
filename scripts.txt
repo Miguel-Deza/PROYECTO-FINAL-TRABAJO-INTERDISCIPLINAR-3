@@ -3,3 +3,7 @@ python .\count_person_webcam.py --modeldir=custom_model_lite
 
 VIDEO 
 python count_person_video.py --modeldir=custom_model_lite --video=c.mp4
+
+AFORO
+python aforo_alert.py --modeldir=custom_model_lite --video=c.mp4
+make sure you change the variable max_capacity in aforo_alert
